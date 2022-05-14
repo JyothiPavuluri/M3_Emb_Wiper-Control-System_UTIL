@@ -90,7 +90,7 @@ The Following are the important components to build Wiper Control System
 
 # Detail requirements
 
-## High Level Requirements:
+## High Level Requirements
 | ID  | Component| Description  |
 |------|-------------|---------|
 |HLR01|LED |to represent the operation of Microcontroller |  
@@ -99,7 +99,7 @@ The Following are the important components to build Wiper Control System
 |HLR04|Frequency|Come on and OFF alternately for set frequency in HZ|
 |HLR05|Switch|To make on and off Conditions|
 
-## Low Level Requirements:
+## Low Level Requirements
 | ID | Low Level Requirements for HLR1 | ID	| Low Level Requirements for HLR2 |
 | :---: | :---: | :---: | :---: |
 | LLR1.1 |	If the user Button is pressed and held for 2 secs,the Red LED is ON | LLR2.1 |	If the user Button is pressed and held for 2 secs,the Red LED is OFF |
