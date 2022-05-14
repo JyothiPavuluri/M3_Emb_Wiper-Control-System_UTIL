@@ -42,9 +42,9 @@ controller and water sensor. As the conclusion for the project, the results show
 objectives are successfully achieved. The wiper system was well functionally according the water condition from the outside of a
 car. 
 
-# 2.REQUIREMENTS:
+# 2.REQUIREMENTS
 
-##  Introduction:
+##  Introduction
 
 Scenario: Wiper Control System.
 Ignition Key Position at ACC: The Red LED is ON, if the user button is pressed and held for 2 secs
@@ -74,7 +74,7 @@ The Following are the important components to build Wiper Control System
 * power Supply
 * USB Cable
 
-# Features:
+# Features
  * Wiper Control System controls up to 9 windshield wipers. 
  * Each wiper has its own on/off  button.
  * Blue,Green,Orange LEDs,Come ON and OFF alternately for set frequency State A, RED led will be ON and after wipers are grouped together for simultaneous on/off control.
@@ -113,19 +113,19 @@ The Following are the important components to build Wiper Control System
 
 # 4W's and 1'H
 
-## Who:
+## Who
 * The car wiper control system can be used by people who are all having car.
 
-## What?
+## What
 * Wiper Control System is build to clean or wipe the raindrops or any water from the windscreen. 
 
-## When:
+## When
 * The rain sensor based system functions when water falls on the sensor directly.
 
-## Where:
+## Where
 * This system applied in the case of water falling on the class only.
 
-## How:
+## How
 * The Project is going to be implemented in  STM32F4 Microcontroller through a single Button.
 
 # Detail requirements
@@ -186,6 +186,6 @@ The Following are the important components to build Wiper Control System
 # The Test Plan Of The Project Is:
 * To know the importance of the project.
 * The working conditions of the project.
-* The working principle and architecture of sensors.
+* The working principle and architecture of sensor.
 * The microcontroller chip.
-* The sensors interfacing with the microcontroller.
+* The sensor interfacing with the microcontroller.
